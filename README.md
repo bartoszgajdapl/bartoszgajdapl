@@ -1,8 +1,4 @@
-<h1 align="left">Hi there! 👋</h1>
-
-###
-
-<p align="left">My name is Bartosz and I'm a GIS specialist from Poland.</p>
+<h1 align="center">Hi there! 👋</h1>
 
 ###
 
@@ -10,11 +6,15 @@
 
 ###
 
-<p align="left">📚 Graduate of the University of Agriculture in Cracow (M.Sc.) in geoinformatics in forestry.<br><br>✨I'm currently involved in LiDAR data analysis and processing, as well as natural environment analysis.</p>
+<p align="left">My name is Bartosz and I'm a GIS specialist and begginer data analyst from Poland.</p>
 
 ###
 
-<h2 align="left">I code with 👨‍💻</h2>
+<p align="left">📚 Graduate of the University of Agriculture in Cracow (M.Sc.) in geoinformatics in forestry.<br><br>🌳 I'm currently involved in LiDAR data analysis and processing, as well as natural environment analysis.</p>
+
+###
+
+<h2 align="left">Languages:</h2>
 
 ###
 
@@ -26,11 +26,11 @@
 
 ###
 
-<h2 align="left">Contact me!</h2>
+<h2 align="center">Contact me!</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:bartosz.gajda1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
