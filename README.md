@@ -2,15 +2,15 @@
 
 ###
 
+<p align="left">👨‍💻 My name is Bartosz and I'm a GIS specialist and begginer data analyst from Poland.</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">My name is Bartosz and I'm a GIS specialist and begginer data analyst from Poland.</p>
-
-###
-
-<p align="left">📚 Graduate of the University of Agriculture in Cracow (M.Sc.) in geoinformatics in forestry.<br><br>🌳 I'm currently involved in LiDAR data analysis and processing, as well as natural environment analysis.</p>
+<p align="left">📚 Graduate of the University of Agriculture in Cracow (M.Sc.) in geoinformatics in forestry.<br>🌳 I'm currently involved in LiDAR data analysis and processing, as well as natural environment analysis.</p>
 
 ###
 
