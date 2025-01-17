@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Graduate of the University of Agriculture in Cracow (M.Sc.) in geoinformatics in forestry.<br>🌳 I'm currently involved in LiDAR data analysis and processing, as well as natural environment analysis.</p>
+<p align="left">📚 Graduate of the University of Agriculture in Cracow (M.Sc.) in geoinformatics in forestry.<br>📊 I'm currently involved in analyzing energy data</p>
 
 ###
 
